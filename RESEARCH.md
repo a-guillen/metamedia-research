@@ -42,6 +42,4 @@ https://www.spiedigitallibrary.org/ebooks/PM/The-Art-and-Science-of-Holography--
 ![IMG_1287.JPG]({{site.baseurl}}/IMG_1287.JPG)
 
 
-
-
 Johnston, S. (2011). Whatever Became of Holography? The once-futuristic technology has less public glamour nowadays, but it still plays a current role in science. American Scientist, 99(6), 482-489. Retrieved February 20, 2020, from www.jstor.org/stable/23019416
