@@ -39,6 +39,8 @@ https://en.wikipedia.org/wiki/Lloyd_Cross
 https://arxiv.org/abs/1610.06236
 https://www.spiedigitallibrary.org/ebooks/PM/The-Art-and-Science-of-Holography--A-Tribute-to/11/Denisyuk-Holography-From-Lippmann-Photography-to-Color-Holography/10.1117/3.2265060.ch11?SSO=1
 
+4. 
+mind map 
 ![IMG_1287.JPG]({{site.baseurl}}/IMG_1287.JPG)
 
 
